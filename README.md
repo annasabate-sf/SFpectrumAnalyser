@@ -23,7 +23,7 @@ pip install opencv-python
 pip install matplotlib
 pip install numpy
 pip install screeninfo
-git clone https://github.com/annasabate-sf/SFpectrumAnalyzer.git
+git clone https://github.com/annasabate-sf/SFpectrumAnalyser.git
 ```
 
 ## Usage
