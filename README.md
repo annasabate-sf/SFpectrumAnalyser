@@ -9,7 +9,7 @@ In earlier times, scientists used prisms to split the beam of light into its com
 ## Getting Started
 
 ### Prerequisites
-* The program was created using **Python3.7**
+* The program was created using **Python3.13**
 * OpenCV
 * Matplotlib
 * numpy
